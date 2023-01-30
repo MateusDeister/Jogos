@@ -1,2 +1,3 @@
-# Jogo da velha
- Jogo da velha
+# Jogos
+ - Jogo da velha
+ - Adivinhe o Número
